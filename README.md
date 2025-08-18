@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m passionate Machine Learning and python
 - 🔥 I’m looking to collaborate with any Open - Source data science and Machine Learning projects
 - 📫 How to reach me **punsisichamodha99@gmail.com**
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 - 😺 Fun facts: love to coding and sleeping when my brain wants to refresh
 <br>
 <p align="center" style="italic">Thought : "Opportunities are all around you. Your future is bright depending on your choices.."</p>
