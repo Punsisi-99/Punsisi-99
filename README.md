@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda"/>
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
   </a>
 </p>
@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=punsisi-99&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=punsisi-99&theme=dark&hide_border=false" /> 
+ ![](https://github-readme-stats.vercel.app/api?username=Punsisi-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Punsisi-99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Punsisi-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td>
 
 <td width="50%" align="center">
@@ -99,19 +99,24 @@ Here are some ideas to get you started:
   </td>
 </tr>
 </table>
+</p>
 <!--- stats (end) -->
 <br>
-<!--- trophy (start) -->
-<h3>🏆 Profile Trophies</h3>
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=punsisi-99&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
+<!--repo(start)-->
+## 🔝 Top Contributed Repo
+<p align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Punsisi-99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</p>
+<!--repo(end)-->
+<br>
 <!--- trophy (start) -->
 
-
-</p>        
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Punsisi-99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+       
 <!--- stats (end) -->
 <br>
 
@@ -123,7 +128,7 @@ Here are some ideas to get you started:
 
 <!--icons and links-->
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/punsisi-chamoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punsisi-chamoda/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/punsisi-chamoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/punsisi-chamoda" height="30" width="40" /></a>
 <a href="https://fb.com/punsisi chamodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="punsisi chamodya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31296323/punsisi-chamodhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31296323/punsisi-chamodhya" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/punsisichamodhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/punsisichamodhya" height="30" width="40" /></a>
@@ -131,9 +136,13 @@ Here are some ideas to get you started:
 <a href="mailto:punsisichamodha99@gmail.com" ><img align="center" alt="Punsisi Chamoda | Gmail" height="30" width="40" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
 
 </p>
-
-# <p align="center">
-<b>Thank You</b>
 <br>
-Last Edited: 18.08.2025
+
+---
+[![](https://visitcount.itsvg.in/api?id=Punsisi-99&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<b>Thank You <b>
+<br>
+Last Edited: 26.11.2025
 </p>
