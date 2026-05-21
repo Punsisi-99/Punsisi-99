@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punsisi-99&style=flat-square&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=punsisi-99&label=Visitors&color=00ffff&style=for-the-badge" />
 </p>
 
 ## 👨‍💻 About Me
@@ -75,9 +75,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Summary
 
 <p align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punsisi-99&theme=tokyonight)
-
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punsisi-99&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -134,6 +132,8 @@
 </a>
 
 </div>
+
+<br>
 
 <p align="center">
   <b>Thank You for Visiting My Profile ❤️</b>
