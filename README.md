@@ -261,6 +261,8 @@ Last Edited: 26.11.2025
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Punsisi-99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punsisi-99&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img src="https://streak-stats.demolab.com?user=Punsisi-99&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
