@@ -251,13 +251,13 @@ Last Edited: 26.11.2025
   <img width="60%" src="https://streak-stats.demolab.com?user=punsisi-99&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔝 Top Contributed Repo
+## 📈 GitHub Summary
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Punsisi-99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punsisi-99&theme=tokyonight)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punsisi-99&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=punsisi-99&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
